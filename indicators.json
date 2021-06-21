@@ -1,0 +1,433 @@
+[
+  {
+    "goal": {
+      "id": "1",
+      "title": "Gebäude in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "1-1-1",
+          "title": "Bestand an Wohnungen in Wohn- und  Nichtwohngebäuden zu Jahresbeginn und Jahresende",
+          "description": "Der Indikator Wohnungen in Wohn- und Nichtwohngebäuden zeigt die Entwicklung des Wohnungsbestandes in Niedersachsen seit 2011. Für jeden Kreis und für jede kreisfreie Stadt, werden Daten zum Wohnungsbestand jeweils zum Jahresanfang und zum Jahresende abgebildet. Der Wohnungszuwachs durch Neubau wird neben der Veränderung des Wohnungsbestandes Insgesamt gesondert ausgewiesen.",
+          "keywords": "",
+          "href": "/1-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "1-1-2",
+          "title": "Veränderung der Anzahl der Wohnungen in Wohn- und Nichtwohngebäuden (Neubau)",
+          "description": "Der Indikator bildet die Veränderung des Wohnungsangebotes in Niedersachsen, den Statistischen Regionen sowie den Landkreisen und Kreisfreien Städten ab.",
+          "keywords": "",
+          "href": "/1-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "1-1-3",
+          "title": "Neubauanteil in Prozent",
+          "description": "",
+          "keywords": "",
+          "href": "/1-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "1-2-1",
+          "title": "Wohnungen nach Anzahl der Zimmer",
+          "description": "",
+          "keywords": "",
+          "href": "/1-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "1-2-2",
+          "title": "Durchschnittliche Fläche je Wohnung",
+          "description": "",
+          "keywords": "",
+          "href": "/1-2-2",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "2",
+      "title": "Eigenheime in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "2-1-1",
+          "title": "Eigenheime 1 Anzahl der Eigenheime",
+          "description": "Definition hier einfügen",
+          "keywords": "",
+          "href": "/2-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-2",
+          "title": "Eigenheime 2 Eigenheime und Fläche",
+          "description": "",
+          "keywords": "",
+          "href": "/2-1-2",
+          "status": "notstarted"
+        },
+        {
+          "id": "2-2-1",
+          "title": "Eigenheime 3 Verhältnis Eigenheime  Mietwohnungen",
+          "description": "",
+          "keywords": "",
+          "href": "/2-2-1",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "3",
+      "title": "Wohnheime und andere Unterkünfte in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "3-1-1",
+          "title": "Wohnheime 1 Anzahl der Wohnheime",
+          "description": "",
+          "keywords": "",
+          "href": "/3-1-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "3-1-2",
+          "title": "Wohnheime 2 Sind Pflegeheime Wohnheime?",
+          "description": "",
+          "keywords": "",
+          "href": "/3-1-2",
+          "status": "notstarted"
+        },
+        {
+          "id": "3-2-1",
+          "title": "Wohnheime 3 Asylbewerberunterkünfte, Obdachlosenunterkünfte",
+          "description": "",
+          "keywords": "",
+          "href": "/3-2-1",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "4",
+      "title": "Mieten in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "4-1-1",
+          "title": "Mieten 1 Nettokaltmieten, Nebenkosten, Mikrozensus",
+          "description": "",
+          "keywords": "",
+          "href": "/4-1-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-2-1",
+          "title": "Mieten 2 Mieten nach Bevölkerung (Alter, Familien, Migrationshintergrund) Miktorzensus",
+          "description": "",
+          "keywords": "",
+          "href": "/4-2-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-2-2",
+          "title": "Mieten 3 Mietbelastungsquote Mikrozensus",
+          "description": "",
+          "keywords": "",
+          "href": "/4-2-2",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "5",
+      "title": "Bauen in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "5-1-1",
+          "title": "Bauvorhaben 1 LSN Online Tabelle Z8090101 Baumaßnahmen und neue Gebäude, Nutzfläche, Kosten, Wohnungen insgesamt und Anzahl Räume und Nichtwohngebäude Kreisebene",
+          "description": "",
+          "keywords": "",
+          "href": "/5-1-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "5-2-1",
+          "title": "Bauvorhaben 2 Sinnvolle Aufteilung finden des unter 1 genannten",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "5-2-2",
+          "title": "Bauvorhaben 3 Sinnvolle Aufteilung finden des unter 1 genannten",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-2",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "6",
+      "title": "Baufertigstellungen in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "6-1-1",
+          "title": "Baufertigstellungen 1 LSN Online K8100116 Wohngebäude (1-2 Wohnungen, 3 und  mehr Wohnungen), Wohngebäude, Wohngebäuden nach Anzahl der Zimmer,  Nichtwohngebäude, Nutzfläche, Veranschlagte Kochen (???)",
+          "description": "",
+          "keywords": "",
+          "href": "/6-1-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "6-2-1",
+          "title": "Baufertigstellungen 2 Sinnvolle Aufteilung des unter 1 genannten",
+          "description": "",
+          "keywords": "",
+          "href": "/6-2-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "6-3-1",
+          "title": "Baufertigstellungen 3 Sinnvolle Aufteilung des unter 1 genannten",
+          "description": "",
+          "keywords": "",
+          "href": "/6-3-1",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "7",
+      "title": "Was kosten das Eigenheim?",
+      "indicators": [
+        
+        {
+          "id": "7-1-1",
+          "title": "Baukosten 1 Baukosten aus Baugenehmigung und Baufetigstellung",
+          "description": "",
+          "keywords": "",
+          "href": "/7-1-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "7-1-2",
+          "title": "Baukosten 2 Baukkosten Wohnungen nach Anzahl der Zimmer",
+          "description": "",
+          "keywords": "",
+          "href": "/7-1-2",
+          "status": "notstarted"
+        },
+        {
+          "id": "7-2-1",
+          "title": "Baukosten 3",
+          "description": "",
+          "keywords": "",
+          "href": "/7-2-1",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "8",
+      "title": "Grunstückspreise und Preisentwicklung in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "8-1-1",
+          "title": "Grundstücke 1  LSN Online Tabelle K9280111 Fälle, Flächen, Preise, baureifes Baulans, Rohbauland, Sonstiges, Insgesamt, Kreisebene, Zeitreihe, Kaufsumme, durchscnittliche Kaufwerte/qm",
+          "description": "",
+          "keywords": "",
+          "href": "/8-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-2-1",
+          "title": "Grundstücke 2",
+          "description": "",
+          "keywords": "",
+          "href": "/8-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-3-1",
+          "title": "Grundstücke 3",
+          "description": "",
+          "keywords": "",
+          "href": "/8-3-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "9",
+      "title": "Grunderwerbsteuer in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "9-1-1",
+          "title": "Steuern und Abgaben 1 Grunderwerbsteuer und Gewerbesteuersätze",
+          "description": "",
+          "keywords": "",
+          "href": "/9-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-2",
+          "title": "Steuern und Abgaben 2 Grundsteuer und Hebesätze",
+          "description": "",
+          "keywords": "",
+          "href": "/9-1-2",
+          "status": "notstarted"
+        },
+        {
+          "id": "9-2-1",
+          "title": "Steuern und Abgaben 3",
+          "description": "",
+          "keywords": "",
+          "href": "/9-2-1",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "10",
+      "title": "Mietwohnungen in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "10-1-1",
+          "title": "Mietwohnungen 1 Größe der Wohnungen",
+          "description": "",
+          "keywords": "",
+          "href": "/10-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-1",
+          "title": "Mietwohnungen 2 Anzahl der Zimmer",
+          "description": "",
+          "keywords": "",
+          "href": "/10-2-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "10-3-1",
+          "title": "Miwtwohnungen 3 Größe der Wohnung und Anzahl der Zimmer nach Familien, Singles, Migrationshintergrund",
+          "description": "",
+          "keywords": "",
+          "href": "/10-3-1",
+          "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "11",
+      "title": "Geflüchtete und geduldete Personen in Niedersachsen",
+      "indicators": [
+        
+        {
+          "id": "11-1-1",
+          "title": "Aufenthaltstitel in Niedersachsen",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit.<br> Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-1",
+          "title": "Geflüchtete und geduldete Personen insgesamt",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-2",
+          "title": "Asylberechtigte und GfK-Flüchtlinge",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-3",
+          "title": "Aufenthaltsgestattung zum Asylverfahren",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-3",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-4",
+          "title": "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel sowie organisierter Schwarzarbeit",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-4",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-5",
+          "title": "Dringende persönliche oder humanintäre Gründe und Härtefälle",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-5",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-6",
+          "title": "Duldung",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-6",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-7",
+          "title": "Familiennachzug",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-7",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-8",
+          "title": "Niederlassungserlaubnis",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-8",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-9",
+          "title": "Unmöglichkeit der Ausreise aus rechtlichen oder tatsächlichen Gründen",
+          "description": "Zu den in Deutschland lebenden Ausländerinnen und Ausländern zählen alle Personen, die nicht die deutsche Staatsangehörigkeit besitzen und die sich nicht nur für einen kurzen Zeitraum in Deutschland aufhalten. Dazu gehören auch Staatenlose und Personen mit ungeklärter Staatsangehörigkeit. Deutsche, die zugleich eine fremde Staatsangehörigkeit besitzen, zählen nicht zur ausländischen Bevölkerung. Ausländerinnen und Ausländer leben in Deutschland mit einem bestimmten Aufenthaltstitel (z.B. Aufenthaltserlaubnis oder Niederlassungserlaubnis), zur Durchführung eines Asylverfahrens (Aufenthaltsgestattung) oder bei nicht rechtmäßigem Aufenthalt mit einer Duldung (Aussetzung der Abschiebung). Die Bedingungen der rechtmäßigen Einreise und des rechtmäßigen Aufenthalts werden durch unterschiedliche Aufenthaltstitel geregelt. Die nach dem Aufenthaltstitel gegliederten Daten sind ein Indikator, der die gesellschaftliche Teilhabe anhand rechtlicher Aufenthaltsbedingungen und den damit verbundenen Möglichkeiten z.B. zur Aufnahme einer Ausbildung oder Erwerbstätigkeit beschreibt.",
+          "keywords": "",
+          "href": "/11-2-9",
+          "status": "complete"
+        },
+        {
+          "id": "11-3-1",
+          "title": "Titel 11-3-1",
+          "description": "",
+          "keywords": "",
+          "href": "/11-3-1",
+          "status": "notstarted"
+        }]
+    }
+  }]
